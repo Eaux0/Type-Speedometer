@@ -2,6 +2,11 @@
 
 **Type Speedometer** is an interactive web application that allows users to test their typing speed in real-time. The app tracks your typing speed, calculated in Words Per Minute (WPM), while providing a typing challenge in the **Classic** mode. It is built using **React.js**, **TypeScript**, and **Bootstrap**, offering a modern and responsive user experience with a focus on performance and real-time updates.
 
+<img width="1512" alt="Screenshot 2025-02-15 at 6 57 04 PM" src="https://github.com/user-attachments/assets/7ca9d5d6-52fe-4229-9225-ea4844f6061f" />
+
+<img width="1512" alt="Screenshot 2025-02-15 at 6 58 05 PM" src="https://github.com/user-attachments/assets/9957456a-f0df-41e7-9ec5-c7c84059d4e4" />
+
+
 ## Features
 
 - **Real-Time Typing Speed (WPM)**: Track your typing speed dynamically as you type. The app updates the WPM in real-time.
